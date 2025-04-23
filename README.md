@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# https://designer-tamim.github.io/portfolio/
+# https://dribbble.com/designer-tamim
+# https://www.facebook.com/CreativeDesignsTamim/
+
 <!--
 **designer-tamim/designer-tamim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
